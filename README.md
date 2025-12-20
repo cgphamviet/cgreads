@@ -2,6 +2,8 @@
 
 Collection of XML, CSS, and JavaScript files for customizing Blogger themes.
 
+## Project structure
+
 ## Loại bỏ hoàn toàn chủ đề cũ
 
 ```
