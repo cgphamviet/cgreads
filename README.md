@@ -4,6 +4,12 @@ Collection of XML, CSS, and JavaScript files for customizing Blogger themes.
 
 ## Project structure
 
+## Usage
+
+1. Go to Blogger → Theme → Edit HTML
+2. Replace the existing XML with `index.xml` or `clean-install.xml`
+3. Add CSS and JS files from the `assets` directory as needed
+
 ## Loại bỏ hoàn toàn chủ đề cũ
 
 ```
