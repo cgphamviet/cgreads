@@ -197,7 +197,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+Được phân phối theo giấy phép dự án. Xem `LICENSE` để biết thêm thông tin.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
