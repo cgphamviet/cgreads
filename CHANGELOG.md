@@ -1,4 +1,4 @@
-## v2.0
-- Refactor typography JS
-- Cleanup XML structure
-- Tách CSS ra assets
+## v1.0.0
+- Initial release
+- Stable Blogger XML structure
+- Base CSS and JavaScript assets
