@@ -208,7 +208,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Liên kết Dự án: [https://github.com/cgphamviet/cgreads](https://github.com/cgphamviet/cgreads)
 
 <p align="right"><a href="#readme-top">↑</a></p>
 
