@@ -31,22 +31,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://svgrepo.com/show/96059/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">CGreads</h3>
+<h3 align="center">CGUI</h3>
 
   <p align="center">
-    project_description
+    Blogger template
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">Xem mẫu</a>
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Báo cáo lỗi</a>
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Tính năng yêu cầu</a>
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -54,10 +54,10 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Mục lục</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Về Dự Án</a>
+      <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -81,11 +81,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Introduction
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+**CGUI** is a sleek, modern, and fully responsive Blogger template designed to provide an exceptional user experience across all devices. Packed with a variety of powerful features, CGUI enhances the aesthetics and functionality of your blog, making it ideal for anyone looking to create a professional online presence. Whether you're blogging about tech, lifestyle, or personal projects, CGUI's clean design and easy customization options allow you to tailor the theme to suit your unique style.
+
+Developed by **CGphamviet** & **KiemesSix**, Plus UI is the perfect solution for those seeking an intuitive and feature-rich template that combines simplicity with advanced functionality. It comes with **comprehensive documentation** to help you get started easily.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +199,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Được phân phối theo giấy phép dự án. Xem `LICENSE` để biết thêm thông tin.
+Distributed under the project_license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,10 +210,20 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Liên kết Dự án: [https://github.com/cgphamviet/cgreads](https://github.com/cgphamviet/cgreads)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-<p align="right"><a href="#readme-top">↑</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* []()
+* []()
+* []()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -229,7 +241,7 @@ Liên kết Dự án: [https://github.com/cgphamviet/cgreads](https://github.com
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://public-files.gumroad.com/uicjx5kdu1htbhxgolblaizqksn5
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
