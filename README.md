@@ -10,6 +10,40 @@ Collection of XML, CSS, and JavaScript files for customizing Blogger themes.
 2. Replace the existing XML with `index.xml` or `clean-install.xml`
 3. Add CSS and JS files from the `assets` directory as needed
 
+/
+├─ README.md
+├─ CHANGELOG.md
+├─ LICENSE
+│
+├─ template/
+│  ├─ cgreads.xml
+│  └─ cgreads-dev.xml        (nếu có bản test)
+│
+├─ assets/
+│  ├─ css/
+│  │  ├─ base.css
+│  │  ├─ layout.css
+│  │  ├─ typography.css
+│  │  └─ theme.css
+│  │
+│  ├─ js/
+│  │  ├─ main.js
+│  │  ├─ typography.js
+│  │  └─ utils.js
+│  │
+│  ├─ img/
+│  │  ├─ logo.svg
+│  │  └─ placeholder.webp
+│  │
+│  └─ font/
+│     ├─ inter-regular.woff2
+│     └─ inter-bold.woff2
+│
+└─ docs/
+   ├─ install.md
+   ├─ structure.md
+   └─ customization.md
+
 ## Loại bỏ hoàn toàn chủ đề cũ
 
 ```
