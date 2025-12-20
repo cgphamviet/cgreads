@@ -1,4 +1,4 @@
-# CGreads
+# Blogger Theme Assets
 
 Collection of XML, CSS, and JavaScript files for customizing Blogger themes.
 
