@@ -1,7 +1,6 @@
-
 # CGreads
 
-Được tạo bởi: CG & KiemesSix
+Collection of XML, CSS, and JavaScript files for customizing Blogger themes.
 
 ## Loại bỏ hoàn toàn chủ đề cũ
 
