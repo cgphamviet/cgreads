@@ -119,9 +119,9 @@ CGUI offers comprehensive and user-friendly documentation, making setup and cust
 
 ## Roadmap
 
-- [x] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- [x] Option to specify an endpoint for contact form submissions
+- [ ] Basic information sent along with custom contact form endpoint
+- [ ] Option to enable prefetch speculation rule under Optimization plugin (Experimental)
     - [ ] Nested Feature
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
