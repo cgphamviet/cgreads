@@ -28,8 +28,8 @@ No known issues yet.
 
 ## Contact
 
-If you have any further questions regarding the template or unable to make a purchase through this page, feel free to reach us through any of the followings:
+If you have any further questions regarding the template, feel free to reach us through any of the followings:
 
-Email: cgphamviet@gmail.com
+**Email:** cgphamviet@gmail.com
 
 Instagram: @cgphamviet
