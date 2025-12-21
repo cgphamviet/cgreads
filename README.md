@@ -4,17 +4,23 @@
 
 Developed by **CG**, CGUI is the perfect solution for those seeking an intuitive and feature-rich template that combines simplicity with advanced functionality. It comes with **comprehensive documentation** to help you get started easily.
 
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
 
 
 ## Preview
 
 You may want to explore [Demo blog](https://cgreads.blogspot.com) before making a purchase.
 
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
 
 
 ## Changelogs
 
 Explore all the recent changes, fixes, and new features in our detailed changelog. [Click here](https://cgreads.blogspot.com) to see the complete list of updates.
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -23,6 +29,8 @@ Explore all the recent changes, fixes, and new features in our detailed changelo
 Following is the list of know issues in the latest version of this template.
 
 No known issues yet.
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -96,10 +104,15 @@ In addition to its core strengths, CGUI comes packed with a range of thoughtful 
 
 … and many more thoughtful features designed to make your blog professional, efficient, and enjoyable to manage. Explore them all in the [demo](https://cgreads.blogspot.com)!
 
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
+
 
 ## Comprehensive Documentation
 
 CGUI offers comprehensive and user-friendly documentation, making setup and customization easy for both beginners and experienced users. Our guides are clear and concise, covering everything from basic installation to advanced features. With detailed examples and practical tips, you'll be able to fully utilize the potential of CGUI. Additionally, we keep the documentation updated regularly to reflect new features and improvements, ensuring that you always have access to the latest information and best practices.
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
