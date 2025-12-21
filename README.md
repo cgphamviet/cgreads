@@ -28,7 +28,7 @@ No known issues yet.
 
 ## Why Choose CGUI?
 
-CGUI is not just a Blogger theme — it's a performance-focused, feature-packed solution for creators who want their blogs to look professional, load fast, and engage readers effortlessly. Whether you're a tech blogger, developer, or news writer, CGUI gives you all the tools you need to build a powerful online presence.
+**CGUI** is not just a Blogger theme — it's a performance-focused, feature-packed solution for creators who want their blogs to look professional, load fast, and engage readers effortlessly. Whether you're a tech blogger, developer, or news writer, CGUI gives you all the tools you need to build a powerful online presence.
 
 ### Key Benefits:
 
