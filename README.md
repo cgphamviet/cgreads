@@ -142,5 +142,5 @@ If you have any further questions regarding the template, feel free to reach us 
 **Instagram:** [@cgphamviet](https://instagram.com/cgphamviet)
 
 
-[Blogger]: https://img.shields.io/badge/BLOGGER-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+[Blogger.com]: https://img.shields.io/badge/BLOGGER-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 [Blogger-url]: https://blogger.com
