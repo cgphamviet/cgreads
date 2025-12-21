@@ -117,6 +117,17 @@ CGUI offers comprehensive and user-friendly documentation, making setup and cust
 
 
 
+## Roadmap
+
+- [x] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
+
+
 ## Contact
 
 If you have any further questions regarding the template, feel free to reach us through any of the followings:
