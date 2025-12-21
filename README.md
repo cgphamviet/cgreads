@@ -12,7 +12,7 @@ Developed by **CG**, CGUI is the perfect solution for those seeking an intuitive
 
 You may want to explore [Demo blog](https://cgreads.blogspot.com) before making a purchase.
 
-<p align="right"><a href="#readme-top">Back to top</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
