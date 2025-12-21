@@ -122,6 +122,8 @@ CGUI offers comprehensive and user-friendly documentation, making setup and cust
 - [x] Option to specify an endpoint for contact form submissions
 - [ ] Basic information sent along with custom contact form endpoint
 - [ ] Option to enable prefetch speculation rule under Optimization plugin (Experimental)
+- [ ] Option in Safelink to show destination link after clicking scroll-down button
+- [ ] Link generator page for external Safelink use
     - [ ] Nested Feature
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
