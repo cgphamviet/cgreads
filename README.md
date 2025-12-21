@@ -9,7 +9,7 @@ Developed by **CG**, CGUI is the perfect solution for those seeking an intuitive
 
 ### Built With
 
-![Blogger](https://img.shields.io/badge/BLOGGER-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+[![Blogger][Blogger.com]][Blogger-url]
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -142,4 +142,5 @@ If you have any further questions regarding the template, feel free to reach us 
 **Instagram:** [@cgphamviet](https://instagram.com/cgphamviet)
 
 
-
+[Blogger]: https://img.shields.io/badge/BLOGGER-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+[Blogger-url]: https://blogger.com
