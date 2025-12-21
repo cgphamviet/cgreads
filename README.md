@@ -5,7 +5,6 @@
 
 Developed by **CG**, CGUI is the perfect solution for those seeking an intuitive and feature-rich template that combines simplicity with advanced functionality. It comes with **comprehensive documentation** to help you get started easily.
 
-<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 ### Built With
