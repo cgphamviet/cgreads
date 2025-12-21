@@ -32,4 +32,4 @@ If you have any further questions regarding the template, feel free to reach us 
 
 **Email:** cgphamviet@gmail.com
 
-Instagram: @cgphamviet
+**Instagram:** [@cgphamviet](https://instagram.com/cgphamviet)
