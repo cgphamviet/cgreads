@@ -44,7 +44,7 @@ CGUI is not just a Blogger theme — it's a performance-focused, feature-packed 
 * #### 🛠️ Built for Creators
   Designed for bloggers, content writers, and developers alike, CGUI makes it easy to publish, organize, and present content beautifully.
 
-* ##### 📱 First-Class PWA Support
+* #### 📱 First-Class PWA Support
   CGUI is the **first Blogger theme** to natively support Progressive Web App features, including installable app experience *(excluding offline page and push notifications).*
 
 
