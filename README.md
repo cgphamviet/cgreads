@@ -41,19 +41,19 @@ No known issues yet.
 
 ### Key Benefits:
 
-* #### 🚀 Lightning-Fast Performance
+* **🚀 Lightning-Fast Performance**
   Built with optimized code and minimal dependencies, CGUI ensures your blog loads instantly, offering a seamless user experience and better SEO rankings.
 
-* #### 📱 Modern & Responsive Design
+* **📱 Modern & Responsive Design**
   Whether it's a phone, tablet, or desktop, CGUI adapts perfectly to every screen, keeping your content clean and accessible everywhere.
 
-* #### ⚙️ Powerful Customization Options
+* **⚙️ Powerful Customization Options**
   Customize almost everything from layout structure to theme color directly from Blogger’s layout editor or theme customizer.
 
-* #### 🛠️ Built for Creators
+* **🛠️ Built for Creators**
   Designed for bloggers, content writers, and developers alike, CGUI makes it easy to publish, organize, and present content beautifully.
 
-* #### 📱 First-Class PWA Support
+* **📱 First-Class PWA Support**
   CGUI is the **first Blogger theme** to natively support Progressive Web App features, including installable app experience *(excluding offline page and push notifications).*
 
 
@@ -61,46 +61,46 @@ No known issues yet.
 
 In addition to its core strengths, CGUI comes packed with a range of thoughtful features that enhance both user experience and content management:
 
-* #### 🔍 Instant Search
+* **🔍 Instant Search**
   Get lightning-fast, real-time search results as users type — no reloads needed.
 
-* #### 🌙 One-Click Dark Mode
+* **🌙 One-Click Dark Mode**
   Built-in dark mode toggle with smooth transitions to reduce eye strain and modernize the reading experience.
 
-* #### 👁️ Real-time View Counter
+* **👁️ Real-time View Counter**
   Displays the number of views on each post dynamically, keeping readers engaged and showing trending content in real-time *(requires firebase integration)*.
 
-* #### ⚡ Linked AMP Support
+* **⚡ Linked AMP Support**
   Adds AMP-compatible links to your posts, helping search engines serve faster, lightweight versions of your pages on mobile.
 
-* #### 🌐 Google Translate
+* **🌐 Google Translate**
   A built-in translation widget that allows readers to instantly translate your blog into their preferred language.
 
-* #### 💬 Comments Integration (Facebook & Disqus)
+* **💬 Comments Integration (Facebook & Disqus)**
   Supports both Facebook Comments and Disqus plugins, giving you flexible options for user engagement.
 
-* #### 🔄 Multiple Pagination Types
+* **🔄 Multiple Pagination Types**
   Choose from Infinite Scroll for seamless reading, traditional Numbered Pagination, or Load More buttons to fit your content flow.
 
-* #### 📌 Bookmark Posts Widget
+* **📌 Bookmark Posts Widget**
   Allows users to bookmark and save their favorite posts for easy access later, improving session time and return visits.
 
-* #### 🗂️ Sitemap Page
+* **🗂️ Sitemap Page**
   Auto-generates a clean, structured sitemap page that helps visitors navigate your blog better.
 
-* #### ✉️ Contact Page
+* **✉️ Contact Page**
   Includes a ready-made, functional contact form page to let visitors reach you directly without third-party plugins.
 
-* #### 🏷️ Label Info Widget
+* **🏷️ Label Info Widget**
   Automatically displays label metadata like post count, category name and description, giving structure and clarity to your blog’s topics.
 
-* #### 📚 Categorized Posts Widget
+* **📚 Categorized Posts Widget**
   Lets you group and showcase posts under specific categories or labels, improving content discoverability.
 
-* #### 🔗 Related Posts Widget
+* **🔗 Related Posts Widget**
   Automatically displays related articles under each post to increase user engagement and reduce bounce rate.
 
-* #### ✏️ Quick Edit Shortcuts
+* **✏️ Quick Edit Shortcuts**
   Admin users get instant access to post and layout editing links right from the front-end, saving time and improving workflow.
 
 … and many more thoughtful features designed to make your blog professional, efficient, and enjoyable to manage. Explore them all in the [demo](https://cgreads.blogspot.com)!
