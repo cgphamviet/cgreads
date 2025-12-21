@@ -33,24 +33,24 @@ CGUI is not just a Blogger theme — it's a performance-focused, feature-packed 
 ### Key Benefits:
 
 * #### 🚀 Lightning-Fast Performance
-  Built with optimized code and minimal dependencies, Plus UI ensures your blog loads instantly, offering a seamless user experience and better SEO rankings.
+  Built with optimized code and minimal dependencies, CGUI ensures your blog loads instantly, offering a seamless user experience and better SEO rankings.
 
 * #### 📱 Modern & Responsive Design
-  Whether it's a phone, tablet, or desktop, Plus UI adapts perfectly to every screen, keeping your content clean and accessible everywhere.
+  Whether it's a phone, tablet, or desktop, CGUI adapts perfectly to every screen, keeping your content clean and accessible everywhere.
 
 * #### ⚙️ Powerful Customization Options
   Customize almost everything from layout structure to theme color directly from Blogger’s layout editor or theme customizer.
 
 * #### 🛠️ Built for Creators
-  Designed for bloggers, content writers, and developers alike, Plus UI makes it easy to publish, organize, and present content beautifully.
+  Designed for bloggers, content writers, and developers alike, CGUI makes it easy to publish, organize, and present content beautifully.
 
 * ##### 📱 First-Class PWA Support
-  Plus UI is the **first Blogger theme** to natively support Progressive Web App features, including installable app experience *(excluding offline page and push notifications).*
+  CGUI is the **first Blogger theme** to natively support Progressive Web App features, including installable app experience *(excluding offline page and push notifications).*
 
 
 ### Other Features
 
-In addition to its core strengths, Plus UI comes packed with a range of thoughtful features that enhance both user experience and content management:
+In addition to its core strengths, CGUI comes packed with a range of thoughtful features that enhance both user experience and content management:
 
 * #### 🔍 Instant Search
   Get lightning-fast, real-time search results as users type — no reloads needed.
@@ -93,6 +93,13 @@ In addition to its core strengths, Plus UI comes packed with a range of thoughtf
 
 * #### ✏️ Quick Edit Shortcuts
   Admin users get instant access to post and layout editing links right from the front-end, saving time and improving workflow.
+
+… and many more thoughtful features designed to make your blog professional, efficient, and enjoyable to manage. Explore them all in the [demo](https://cgreads.blogspot.com)!
+
+
+## Comprehensive Documentation
+
+CGUI offers comprehensive and user-friendly documentation, making setup and customization easy for both beginners and experienced users. Our guides are clear and concise, covering everything from basic installation to advanced features. With detailed examples and practical tips, you'll be able to fully utilize the potential of CGUI. Additionally, we keep the documentation updated regularly to reflect new features and improvements, ensuring that you always have access to the latest information and best practices.
 
 
 
