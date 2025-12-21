@@ -8,6 +8,19 @@ Developed by **CG**, CGUI is the perfect solution for those seeking an intuitive
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 
+### Built With
+
+* ![Blogger](https://img.shields.io/badge/BLOGGER-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+* ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+* ![jQuery](https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+* ![Chart.js](https://img.shields.io/badge/CHART.JS-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
+
 
 ## Preview
 
