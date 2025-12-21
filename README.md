@@ -36,16 +36,6 @@ Explore all the recent changes, fixes, and new features in our detailed changelo
 
 
 
-## Known Issues
-
-Following is the list of know issues in the latest version of this template.
-
-No known issues yet.
-
-<p align="right"><a href="#readme-top">Back to top</a></p>
-
-
-
 ## Why Choose CGUI?
 
 **CGUI** is not just a Blogger theme — it's a performance-focused, feature-packed solution for creators who want their blogs to look professional, load fast, and engage readers effortlessly. Whether you're a tech blogger, developer, or news writer, CGUI gives you all the tools you need to build a powerful online presence.
