@@ -53,46 +53,46 @@ CGUI is not just a Blogger theme — it's a performance-focused, feature-packed 
 In addition to its core strengths, Plus UI comes packed with a range of thoughtful features that enhance both user experience and content management:
 
 * #### 🔍 Instant Search
-Get lightning-fast, real-time search results as users type — no reloads needed.
+  Get lightning-fast, real-time search results as users type — no reloads needed.
 
 * #### 🌙 One-Click Dark Mode
-Built-in dark mode toggle with smooth transitions to reduce eye strain and modernize the reading experience.
+  Built-in dark mode toggle with smooth transitions to reduce eye strain and modernize the reading experience.
 
 * #### 👁️ Real-time View Counter
-Displays the number of views on each post dynamically, keeping readers engaged and showing trending content in real-time *(requires firebase integration)*.
+  Displays the number of views on each post dynamically, keeping readers engaged and showing trending content in real-time *(requires firebase integration)*.
 
 * #### ⚡ Linked AMP Support
-Adds AMP-compatible links to your posts, helping search engines serve faster, lightweight versions of your pages on mobile.
+  Adds AMP-compatible links to your posts, helping search engines serve faster, lightweight versions of your pages on mobile.
 
 * #### 🌐 Google Translate
-A built-in translation widget that allows readers to instantly translate your blog into their preferred language.
+  A built-in translation widget that allows readers to instantly translate your blog into their preferred language.
 
 * #### 💬 Comments Integration (Facebook & Disqus)
-Supports both Facebook Comments and Disqus plugins, giving you flexible options for user engagement.
+  Supports both Facebook Comments and Disqus plugins, giving you flexible options for user engagement.
 
 * #### 🔄 Multiple Pagination Types
-Choose from Infinite Scroll for seamless reading, traditional Numbered Pagination, or Load More buttons to fit your content flow.
+  Choose from Infinite Scroll for seamless reading, traditional Numbered Pagination, or Load More buttons to fit your content flow.
 
 * #### 📌 Bookmark Posts Widget
-Allows users to bookmark and save their favorite posts for easy access later, improving session time and return visits.
+  Allows users to bookmark and save their favorite posts for easy access later, improving session time and return visits.
 
 * #### 🗂️ Sitemap Page
-Auto-generates a clean, structured sitemap page that helps visitors navigate your blog better.
+  Auto-generates a clean, structured sitemap page that helps visitors navigate your blog better.
 
 * #### ✉️ Contact Page
-Includes a ready-made, functional contact form page to let visitors reach you directly without third-party plugins.
+  Includes a ready-made, functional contact form page to let visitors reach you directly without third-party plugins.
 
 * #### 🏷️ Label Info Widget
-Automatically displays label metadata like post count, category name and description, giving structure and clarity to your blog’s topics.
+  Automatically displays label metadata like post count, category name and description, giving structure and clarity to your blog’s topics.
 
 * #### 📚 Categorized Posts Widget
-Lets you group and showcase posts under specific categories or labels, improving content discoverability.
+  Lets you group and showcase posts under specific categories or labels, improving content discoverability.
 
 * #### 🔗 Related Posts Widget
-Automatically displays related articles under each post to increase user engagement and reduce bounce rate.
+  Automatically displays related articles under each post to increase user engagement and reduce bounce rate.
 
 * #### ✏️ Quick Edit Shortcuts
-Admin users get instant access to post and layout editing links right from the front-end, saving time and improving workflow.
+  Admin users get instant access to post and layout editing links right from the front-end, saving time and improving workflow.
 
 
 
