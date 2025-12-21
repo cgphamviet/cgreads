@@ -32,19 +32,19 @@ CGUI is not just a Blogger theme — it's a performance-focused, feature-packed 
 
 ### Key Benefits:
 
-* ### 🚀 Lightning-Fast Performance
+* #### 🚀 Lightning-Fast Performance
   Built with optimized code and minimal dependencies, Plus UI ensures your blog loads instantly, offering a seamless user experience and better SEO rankings.
 
-* ### 📱 Modern & Responsive Design
+* #### 📱 Modern & Responsive Design
   Whether it's a phone, tablet, or desktop, Plus UI adapts perfectly to every screen, keeping your content clean and accessible everywhere.
 
-* ### ⚙️ Powerful Customization Options
+* #### ⚙️ Powerful Customization Options
   Customize almost everything from layout structure to theme color directly from Blogger’s layout editor or theme customizer.
 
-* ### 🛠️ Built for Creators
+* #### 🛠️ Built for Creators
   Designed for bloggers, content writers, and developers alike, Plus UI makes it easy to publish, organize, and present content beautifully.
 
-* ### 📱 First-Class PWA Support
+* ##### 📱 First-Class PWA Support
   Plus UI is the first Blogger theme to natively support Progressive Web App features, including installable app experience (excluding offline page and push notifications).
 
 ## Contact
