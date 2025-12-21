@@ -61,10 +61,10 @@ No known issues yet.
 
 In addition to its core strengths, CGUI comes packed with a range of thoughtful features that enhance both user experience and content management:
 
-* #### 🔍 Instant Search
+#### 🔍 Instant Search
   Get lightning-fast, real-time search results as users type — no reloads needed.
 
-* #### 🌙 One-Click Dark Mode
+#### 🌙 One-Click Dark Mode
   Built-in dark mode toggle with smooth transitions to reduce eye strain and modernize the reading experience.
 
 * #### 👁️ Real-time View Counter
@@ -120,11 +120,11 @@ CGUI offers comprehensive and user-friendly documentation, making setup and cust
 ## Roadmap
 
 - [x] Option to specify an endpoint for contact form submissions
-- [ ] Basic information sent along with custom contact form endpoint
-- [ ] Option to enable prefetch speculation rule under Optimization plugin (Experimental)
-- [ ] Option in Safelink to show destination link after clicking scroll-down button
-- [ ] Link generator page for external Safelink use
-    - [ ] Nested Feature
+- [x] Basic information sent along with custom contact form endpoint
+- [x] Option to enable prefetch speculation rule under Optimization plugin (Experimental)
+- [x] Option in Safelink to show destination link after clicking scroll-down button
+- [x] Link generator page for external Safelink use
+- [ ] 
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
