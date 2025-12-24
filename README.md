@@ -8,6 +8,30 @@
 
 
 
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">CGUI</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    &middot;
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    &middot;
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+
+
 ## Introduction
 
 **CGUI** is a sleek, modern, and fully responsive Blogger template designed to provide an exceptional user experience across all devices. Packed with a variety of powerful features, CGUI enhances the aesthetics and functionality of your blog, making it ideal for anyone looking to create a professional online presence. Whether you're blogging about tech, lifestyle, or personal projects, CGUI's clean design and easy customization options allow you to tailor the theme to suit your unique style.
@@ -151,6 +175,7 @@ If you have any further questions regarding the template, feel free to reach us 
 **Email:** cgphamviet@gmail.com
 
 **Instagram:** [@cgphamviet](https://instagram.com/cgphamviet)
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
