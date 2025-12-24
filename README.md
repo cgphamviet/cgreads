@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -165,9 +164,7 @@ If you have any further questions regarding the template, feel free to reach us 
 [issues-shield]: https://img.shields.io/github/issues/cgphamviet/cgreads.svg?style=for-the-badge
 [issues-url]: https://github.com/cgphamviet/cgreads/issues
 [license-shield]: https://img.shields.io/github/license/cgphamviet/cgreads.svg?style=for-the-badge
-[license-url]: https://github.com/cgphamviet/cgreads/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[license-url]: https://github.com/cgphamviet/cgreads/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
 [Blogger.com]: https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 [Blogger-url]: https://www.blogger.com/
