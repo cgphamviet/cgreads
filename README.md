@@ -139,7 +139,7 @@ In addition to its core strengths, CGUI comes packed with a range of thoughtful 
 * **✏️ Quick Edit Shortcuts**<br>
   Admin users get instant access to post and layout editing links right from the front-end, saving time and improving workflow.
 
-… and many more thoughtful features designed to make your blog professional, efficient, and enjoyable to manage. Explore them all in the [demo](https://cgreads.blogspot.com)!
+…and many more thoughtful features designed to make your blog professional, efficient, and enjoyable to manage. Explore them all in the [demo](https://cgreads.blogspot.com)!
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
