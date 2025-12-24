@@ -10,14 +10,14 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/cgphamviet/cgreads">
+    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">CGUI</h3>
 
   <p align="center">
-    project_description
+    Blogger Template
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -90,50 +90,50 @@ Explore all the recent changes, fixes, and new features in our detailed changelo
   Designed for bloggers, content writers, and developers alike, CGUI makes it easy to publish, organize, and present content beautifully.
 
 * **📱 First-Class PWA Support**<br>
-  CGUI is the **first Blogger theme** to natively support Progressive Web App features, including installable app experience *(excluding offline page and push notifications).*
+  CGUI is the first Blogger theme to natively support Progressive Web App features, including installable app experience *(excluding offline page and push notifications).*
 
 
 ### Other Features
 
 In addition to its core strengths, CGUI comes packed with a range of thoughtful features that enhance both user experience and content management:
 
-* **🔍 Instant Search**<br>
+* **🔍 Instant Search** <br>
   Get lightning-fast, real-time search results as users type — no reloads needed.
 
-* **🌙 One-Click Dark Mode**<br>
+* **🌙 One-Click Dark Mode** <br>
   Built-in dark mode toggle with smooth transitions to reduce eye strain and modernize the reading experience.
 
-* **👁️ Real-time View Counter**<br>
+* **👁️ Real-time View Counter** <br>
   Displays the number of views on each post dynamically, keeping readers engaged and showing trending content in real-time *(requires firebase integration)*.
 
-* **⚡ Linked AMP Support**<br>
+* **⚡ Linked AMP Support** <br>
   Adds AMP-compatible links to your posts, helping search engines serve faster, lightweight versions of your pages on mobile.
 
-* **🌐 Google Translate**<br>
+* **🌐 Google Translate** <br>
   A built-in translation widget that allows readers to instantly translate your blog into their preferred language.
 
-* **💬 Comments Integration (Facebook & Disqus)**<br>
+* **💬 Comments Integration *(Facebook & Disqus)*** <br>
   Supports both Facebook Comments and Disqus plugins, giving you flexible options for user engagement.
 
-* **🔄 Multiple Pagination Types**<br>
+* **🔄 Multiple Pagination Types** <br>
   Choose from Infinite Scroll for seamless reading, traditional Numbered Pagination, or Load More buttons to fit your content flow.
 
-* **📌 Bookmark Posts Widget**<br>
+* **📌 Bookmark Posts Widget** <br>
   Allows users to bookmark and save their favorite posts for easy access later, improving session time and return visits.
 
-* **🗂️ Sitemap Page**<br>
+* **🗂️ Sitemap Page** <br>
   Auto-generates a clean, structured sitemap page that helps visitors navigate your blog better.
 
-* **✉️ Contact Page**<br>
+* **✉️ Contact Page** <br>
   Includes a ready-made, functional contact form page to let visitors reach you directly without third-party plugins.
 
-* **🏷️ Label Info Widget**<br>
+* **🏷️ Label Info Widget** <br>
   Automatically displays label metadata like post count, category name and description, giving structure and clarity to your blog’s topics.
 
-* **📚 Categorized Posts Widget**<br>
+* **📚 Categorized Posts Widget** <br>
   Lets you group and showcase posts under specific categories or labels, improving content discoverability.
 
-* **🔗 Related Posts Widget**<br>
+* **🔗 Related Posts Widget** <br>
   Automatically displays related articles under each post to increase user engagement and reduce bounce rate.
 
 * **✏️ Quick Edit Shortcuts**<br>
@@ -162,7 +162,7 @@ CGUI offers comprehensive and user-friendly documentation, making setup and cust
 - [x] Link generator page for external Safelink use
 - [ ] Login Page
 
-See the [open issues](https://github.com/cgphamviet/CGUI/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/cgphamviet/CGUI/issues) for a full list of proposed features *(and known issues)*.
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
@@ -177,8 +177,6 @@ If you have any further questions regarding the template, feel free to reach us 
 **Instagram:** [@cgphamviet](https://instagram.com/cgphamviet)
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/cgphamviet/cgreads.svg?style=for-the-badge
 [contributors-url]: https://github.com/cgphamviet/cgreads/graphs/contributors
@@ -195,7 +193,7 @@ If you have any further questions regarding the template, feel free to reach us 
 [license-shield]: https://img.shields.io/github/license/cgphamviet/cgreads.svg?style=for-the-badge
 [license-url]: https://github.com/cgphamviet/cgreads/blob/master/LICENSE
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: assets/images/screenshot.png
 
 [Blogger.com]: https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 [Blogger-url]: https://www.blogger.com/
