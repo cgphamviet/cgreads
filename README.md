@@ -156,8 +156,8 @@ If you have any further questions regarding the template, feel free to reach us 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/cgphamviet/cgreads.svg?style=for-the-badge
+[contributors-url]: https://github.com/cgphamviet/cgreads/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
