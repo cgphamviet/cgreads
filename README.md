@@ -174,8 +174,6 @@ If you have any further questions regarding the template, feel free to reach us 
 
 **Email:** cgphamviet@gmail.com
 
-**Instagram:** [@cgphamviet](https://instagram.com/cgphamviet)
-
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/cgphamviet/cgreads.svg?style=for-the-badge
